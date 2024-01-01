@@ -1,0 +1,12 @@
+
+Emotion: Happy -  Rating: 10 😁, Time: 12/2/2023, 9:33:41 AM
+Emotion: Neutral -  Rating: 7 😐, Time: 12/2/2023, 9:59:35 AM
+Emotion: Happy -  Rating: 10 😁, Time: 12/2/2023, 10:02:58 AM
+Emotion: Sad -  Rating: 4 😔, Time: 12/2/2023, 10:04:14 AM
+Emotion: Surprised -  Rating: 0 😱, Time: 12/2/2023, 10:05:27 AM
+Emotion: Neutral -  Rating: 7 😐, Time: 12/2/2023, 10:34:14 AM
+Emotion: Happy -  Rating: 10 😁, Time: 12/2/2023, 10:34:36 AM
+Emotion: Surprised -  Rating: 0 😱, Time: 12/2/2023, 10:37:46 AM
+Emotion: Neutral -  Rating: 7 😐, Time: 12/13/2023, 11:39:10 AM
+Emotion: Fearful -  Rating: 0 😐, Time: 12/13/2023, 11:41:52 AM
+Emotion: Angry -  Rating: 0 😡, Time: 12/13/2023, 11:49:58 AM
