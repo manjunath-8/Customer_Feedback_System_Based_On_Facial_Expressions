@@ -34,5 +34,7 @@ Explore the interactive features of our customer feedback system through these v
 ### Web_Results 
 Browse through a collection of images tested with different persons to observe the emotion detection capabilities of our system. These images showcase the system's performance in accurately identifying and classifying emotions across various individuals, highlighting its robustness and effectiveness in real-world scenarios.
 
+**Note:** requirements.txt consists of python packages required for the project.
+
 ## Citation
 If you find this repo useful in your project or research, please consider citing the publication.
