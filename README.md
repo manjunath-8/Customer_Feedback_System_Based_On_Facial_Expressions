@@ -15,5 +15,24 @@ This paper was published in the proceedings of the IEEE 3rd International Confer
 - **test.py**: Code for testing the trained Model.
 - **train.py**: Code for training the Model.
 - **data**: Consists of dataset zip file(FER-2013.zip).
-- 
+- **face**: Consists of caffe model face detector files.
+- **model**: Consists of trained model .h5 files.
+### Training_Results
+Explore the performance metrics and insights gained during the training of our emotion detection model. This section includes detailed results such as the classification report, loss and accuracy graphs plotted against epochs, and the confusion matrix. These results provide a comprehensive view of the model's learning process and effectiveness in classifying emotions.
+### Validate_Results
+Witness the real-world application of our trained model through examples of testing with live video feed. These validation results showcase the model's ability to detect and classify emotions in real-time scenarios, highlighting its practical utility and performance in capturing emotion effectively.
+### Videos
+Explore the interactive features of our customer feedback system through these video demonstrations. Witness the real-time emotion detection and feedback submission process, showcasing the system's ease of use and effectiveness in capturing customer emotion and rating.
+### Web_Interface
+- **face**: Consists of caffe model face detector files.
+- **feedback**: Consists of feedback text file created by web interface.
+- **templates**: consists of html file for web interface.
+- **app.py**: Code for iplementing web interface.
+- **my_model.h5**: Trained model.
 
+**Note:** To run the web interface, please ensure that the files are placed in the same hierarchy order and execute the app.py file.
+### Web_Results 
+Browse through a collection of images tested with different persons to observe the emotion detection capabilities of our system. These images showcase the system's performance in accurately identifying and classifying emotions across various individuals, highlighting its robustness and effectiveness in real-world scenarios.
+
+## Citation
+If you find this repo useful in your project or research, please consider citing the publication.
