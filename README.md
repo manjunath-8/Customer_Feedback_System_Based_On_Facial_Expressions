@@ -38,3 +38,6 @@ Browse through a collection of images tested with different persons to observe t
 
 ## Citation
 If you find this repo useful in your project or research, please consider citing the publication.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
